@@ -1,0 +1,15 @@
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\bin\Debug\net7.0\Sprachfeatures.exe
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\bin\Debug\net7.0\Sprachfeatures.deps.json
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\bin\Debug\net7.0\Sprachfeatures.runtimeconfig.json
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\bin\Debug\net7.0\Sprachfeatures.dll
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\bin\Debug\net7.0\Sprachfeatures.pdb
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\obj\Debug\net7.0\Sprachfeatures.csproj.AssemblyReference.cache
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\obj\Debug\net7.0\Sprachfeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\obj\Debug\net7.0\Sprachfeatures.AssemblyInfoInputs.cache
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\obj\Debug\net7.0\Sprachfeatures.AssemblyInfo.cs
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\obj\Debug\net7.0\Sprachfeatures.csproj.CoreCompileInputs.cache
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\obj\Debug\net7.0\Sprachfeatures.dll
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\obj\Debug\net7.0\refint\Sprachfeatures.dll
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\obj\Debug\net7.0\Sprachfeatures.pdb
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\obj\Debug\net7.0\Sprachfeatures.genruntimeconfig.cache
+C:\Users\lk3\source\repos\CSharp_Fortgeschritten_2023_07_20\Sprachfeatures\obj\Debug\net7.0\ref\Sprachfeatures.dll
