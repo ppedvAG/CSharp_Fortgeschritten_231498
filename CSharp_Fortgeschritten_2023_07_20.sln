@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesEvents", "Delegate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisierung\Serialisierung.csproj", "{70377369-2EB0-4600-84A8-368B0672E21D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading\Multithreading.csproj", "{C629DB7A-28A2-44E6-A83F-6F23D8CC9D12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{70377369-2EB0-4600-84A8-368B0672E21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70377369-2EB0-4600-84A8-368B0672E21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70377369-2EB0-4600-84A8-368B0672E21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C629DB7A-28A2-44E6-A83F-6F23D8CC9D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C629DB7A-28A2-44E6-A83F-6F23D8CC9D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C629DB7A-28A2-44E6-A83F-6F23D8CC9D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C629DB7A-28A2-44E6-A83F-6F23D8CC9D12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
