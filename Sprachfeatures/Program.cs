@@ -16,9 +16,8 @@ internal class Program
 		//if (p == p2) -> if (p.GetHashCode() == p.GetHashCode())
 		Program p = new Program();
 		Program p2 = p;
-
-            Console.WriteLine(p.GetHashCode());
-            Console.WriteLine(p2.GetHashCode());
+        Console.WriteLine(p.GetHashCode());
+        Console.WriteLine(p2.GetHashCode());
 
 		//Wertetyp
 		//struct
